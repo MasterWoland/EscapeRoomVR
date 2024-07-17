@@ -1,0 +1,50 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+Assets/StreamingAssets/Files/MatchAnalysis
+.gradle/
+Logs/
+# ===================================== #
+# Rider generated #
+# ===================================== #
+Assets/Plugins/Editor/JetBrains*
+Assets/Plugins/Editor/JetBrains.meta
+.idea/
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.vscode
+.vs
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+# ============ #
+# MultiProject #
+# ============ #
+# ======= #
+# Vuforia #
+# ======= #
+QCAR/*
