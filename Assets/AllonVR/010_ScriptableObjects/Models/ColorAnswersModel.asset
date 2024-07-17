@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a50ad97e95bc84ebf2d46b0824aeb7, type: 3}
+  m_Name: ColorAnswersModel
+  m_EditorClassIdentifier: 
+  TileModelArray:
+  - Tile: 1
+    Index: 0
+    PuzzleIndex: 0
+    DefaultColor: {r: 0.92156863, g: 0.92156863, b: 0.92156863, a: 1}
+    ActivatedColor: {r: 0.8313726, g: 0.6745098, b: 0.21960786, a: 1}
+    EmissionIntensity: 1
+    ColorName: Yellow
+  - Tile: 0
+    Index: 1
+    PuzzleIndex: -1
+    DefaultColor: {r: 0.92156863, g: 0.92156863, b: 0.92156863, a: 1}
+    ActivatedColor: {r: 0, g: 0, b: 0, a: 1}
+    EmissionIntensity: 0
+    ColorName: 
+  - Tile: 0
+    Index: 2
+    PuzzleIndex: -1
+    DefaultColor: {r: 0.92156863, g: 0.92156863, b: 0.92156863, a: 1}
+    ActivatedColor: {r: 0, g: 0, b: 0, a: 1}
+    EmissionIntensity: 0
+    ColorName: 
+  - Tile: 0
+    Index: 3
+    PuzzleIndex: -1
+    DefaultColor: {r: 0.92156863, g: 0.92156863, b: 0.92156863, a: 1}
+    ActivatedColor: {r: 0, g: 0, b: 0, a: 1}
+    EmissionIntensity: 0
+    ColorName: 
+  - Tile: 1
+    Index: 4
+    PuzzleIndex: 1
+    DefaultColor: {r: 0.92156863, g: 0.92156863, b: 0.92156863, a: 1}
+    ActivatedColor: {r: 0.63529414, g: 0.15294118, b: 0.15294118, a: 1}
+    EmissionIntensity: 1
+    ColorName: Red
+  - Tile: 0
+    Index: 5
+    PuzzleIndex: -1
+    DefaultColor: {r: 0.92156863, g: 0.92156863, b: 0.92156863, a: 1}
+    ActivatedColor: {r: 0, g: 0, b: 0, a: 1}
+    EmissionIntensity: 0
+    ColorName: 
+  - Tile: 1
+    Index: 6
+    PuzzleIndex: 2
+    DefaultColor: {r: 0.92156863, g: 0.92156863, b: 0.92156863, a: 1}
+    ActivatedColor: {r: 0.3019608, g: 0.46274513, b: 0.64705884, a: 1}
+    EmissionIntensity: 1
+    ColorName: Blue
+  - Tile: 0
+    Index: 7
+    PuzzleIndex: -1
+    DefaultColor: {r: 0.92156863, g: 0.92156863, b: 0.92156863, a: 1}
+    ActivatedColor: {r: 0, g: 0, b: 0, a: 1}
+    EmissionIntensity: 0
+    ColorName: 
+  - Tile: 1
+    Index: 8
+    PuzzleIndex: 3
+    DefaultColor: {r: 0.92156863, g: 0.92156863, b: 0.92156863, a: 1}
+    ActivatedColor: {r: 0.48627454, g: 0.9960785, b: 0.9960785, a: 1}
+    EmissionIntensity: 1
+    ColorName: Cyan
+  ButtonColors:
+  - {r: 0.105882354, g: 0.16078432, b: 0.8862745, a: 1}
+  - {r: 0.9411765, g: 0.9411765, b: 0.9411765, a: 1}
+  - {r: 0.17254902, g: 0.59607846, b: 0.36078432, a: 1}
+  - {r: 0.78431374, g: 0.6039216, b: 0.08627451, a: 1}
+  - {r: 0.67058825, g: 0.13725491, b: 0.13725491, a: 1}
+  - {r: 0.03529412, g: 0.8392157, b: 0.99607843, a: 1}
+  ButtonColorNames:
+  - Blue
+  - White
+  - Green
+  - Yellow
+  - Red
+  - Cyan
+  CurrentAnswers:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
