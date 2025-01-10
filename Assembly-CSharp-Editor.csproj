@@ -56,11 +56,11 @@
     <Compile Include="Assets\Pixelplacement\Surge\Spline\Editor\SplineEditor.cs" />
     <Compile Include="Assets\Pixelplacement\Surge\Spline\Editor\SplineAnchorEditor.cs" />
     <Compile Include="Assets\Pixelplacement\Surge\DisplayObject\Editor\DisplayObjectEditor.cs" />
-    <Compile Include="Assets\Simple DI\Injection\Editor\InjectorTests.cs" />
     <Compile Include="Assets\Pixelplacement\Surge\ColliderButton\Editor\ColliderButtonEditor.cs" />
     <Compile Include="Assets\Pixelplacement\Surge\StateMachine\Editor\StateMachineEditor.cs" />
     <Compile Include="Assets\_Creepy_Cat\_3D Scifi Kit Vol 3\Editor\BoxyCarWizard.cs" />
     <Compile Include="Assets\Pixelplacement\Surge\StateMachine\Editor\StateEditor.cs" />
+    <Compile Include="Assets\AllonVR\000_Scripts\Simple DI\Injection\Editor\InjectorTests.cs" />
     <Compile Include="Assets\UIKits\Scripts\Editor\OptionDataEditor.cs" />
     <Compile Include="Assets\UIKits\Scripts\InputModule\Editor\LaserInputModuleEditor.cs" />
     <Reference Include="UnityEngine">
