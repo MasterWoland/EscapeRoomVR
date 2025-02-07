@@ -250,8 +250,8 @@
     <Compile Include="Assets\AllonVR\000_Scripts\Controllers\CodeScreenController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets\Pixelplacement\Surge\Tween\TweenActions\GraphicColor.cs" />
-    <Compile Include="Assets\_Creepy_Cat\Common Scripts\_Interactions_Scripts\Container_Example_Keys_01.cs" />
     <Compile Include="Assets\AllonVR\000_Scripts\Simple DI\Example\Allon\Example Inject ID\Test_DIBinder.cs" />
+    <Compile Include="Assets\_Creepy_Cat\Common Scripts\_Interactions_Scripts\Container_Example_Keys_01.cs" />
     <Compile Include="Assets\Pixelplacement\Surge\Tween\TweenActions\Volume.cs" />
     <Compile Include="Assets\Pixelplacement\SurgeExamples\Code\Utilities\AnimateToCameraPose.cs" />
     <Compile Include="Assets\_Creepy_Cat\Common Scripts\PhysicAddTorqueAtStart.cs" />

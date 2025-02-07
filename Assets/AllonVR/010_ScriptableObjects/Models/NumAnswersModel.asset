@@ -15,6 +15,11 @@ MonoBehaviour:
   CorrectAnswers:
   - 0
   - 9
+  - 5
+  - 8
+  CurrentAnswers:
+  - 0
+  - 9
   - 8
   - 5
-  CurrentAnswers: []
+  _currentAnswerIndex: 4

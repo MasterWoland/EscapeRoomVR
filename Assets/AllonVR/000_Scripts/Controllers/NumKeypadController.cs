@@ -4,6 +4,7 @@ using AllonVR.ScriptableObjects.Events;
 using AllonVR.ScriptableObjects.Models;
 using simpleDI.Injection;
 using simpleDI.Injection.Allon;
+using UnityEngine;
 
 namespace AllonVR.Controllers
 {
