@@ -53,3 +53,8 @@ DLL
 !Assets/*/*.dll
 !*.obj
 
+
+# Un-ignore baked lighting data
+!Assets/**/LightingData.asset
+!Assets/**/*.exr
+!Assets/**/*.png  # lightmaps are stored as PNGs/EXRs
