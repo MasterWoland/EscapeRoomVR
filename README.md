@@ -1,2 +1,1 @@
-Build Settings: Android.
 Any error messages in Unity about missing scripts or references of Creepy Cat assets can be safely ignored.
